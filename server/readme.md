@@ -26,7 +26,6 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-server.git
    ```
 2. Install dependencies:
    ```bash
